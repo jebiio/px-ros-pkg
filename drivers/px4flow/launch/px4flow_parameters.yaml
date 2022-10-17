@@ -1,2 +1,2 @@
-serial_port: /dev/ttyACM0
+serial_port: /dev/ttyPX4Flow
 baudrate:    115200
